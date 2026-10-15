@@ -1,0 +1,6 @@
+{
+  "name": "LionCity Route & Pocket Guide",
+  "description": "Smart Singapore itinerary planner highlighting hidden gems and hawker food, with offline map packs, real-time MRT transit updates, collaborative trip planning, and budget expense tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
